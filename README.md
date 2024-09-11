@@ -1,0 +1,1 @@
+This project is clone of https://github.com/Wildhoney/Leaflet.FreeDraw repository. Just added some features.
