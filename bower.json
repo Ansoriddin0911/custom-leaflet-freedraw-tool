@@ -3,14 +3,7 @@
   "version": "0.0.1",
   "main": "dist/leaflet-freedraw.web.js",
   "authors": [],
-  "license": "MIT",
-  "keywords": [
-    "leaflet",
-    "freedraw",
-    "polygon",
-    "drawing",
-    "freehand"
-  ],
+  "keywords": [],
   "ignore": [
     "**/.*",
     "node_modules",
